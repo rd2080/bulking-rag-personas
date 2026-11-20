@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "question": "What’s the shortest workout that can still help me get stronger?",
+    "why_this_person_asks": "I have two young kids and very little free time."
+  },
+  {
+    "id": 2,
+    "question": "Can I exercise in 10-minute chunks during the day?",
+    "why_this_person_asks": "A single long block is hard to find."
+  },
+  {
+    "id": 3,
+    "question": "What are safe beginner exercises if I’ve been sedentary for years?",
+    "why_this_person_asks": "I want to ease in without getting hurt."
+  },
+  {
+    "id": 4,
+    "question": "How many days a week should I start with?",
+    "why_this_person_asks": "I need a realistic routine around family life."
+  },
+  {
+    "id": 5,
+    "question": "Can I do a workout while my kids are playing nearby?",
+    "why_this_person_asks": "My free time is unpredictable."
+  },
+  {
+    "id": 6,
+    "question": "What does a set of 10 reps mean?",
+    "why_this_person_asks": "I am new to exercise and the terms are confusing."
+  },
+  {
+    "id": 7,
+    "question": "How do I know whether I should stop because something hurts?",
+    "why_this_person_asks": "I want to be careful as I get started."
+  },
+  {
+    "id": 8,
+    "question": "Is walking with a stroller enough to count as exercise?",
+    "why_this_person_asks": "That is something I can already fit into my day."
+  },
+  {
+    "id": 9,
+    "question": "What simple strength exercises can I do at home with no equipment?",
+    "why_this_person_asks": "I would rather start without buying anything."
+  },
+  {
+    "id": 10,
+    "question": "How can I strengthen my legs without doing jumps?",
+    "why_this_person_asks": "I need exercises that are quieter and easier to manage."
+  },
+  {
+    "id": 11,
+    "question": "What is a good warm-up if I only have a few minutes?",
+    "why_this_person_asks": "I want to prepare without making the workout longer."
+  },
+  {
+    "id": 12,
+    "question": "How long should I rest between exercises as a beginner?",
+    "why_this_person_asks": "I do not know how quickly to move through a routine."
+  },
+  {
+    "id": 13,
+    "question": "Can I get stronger with two short workouts a week?",
+    "why_this_person_asks": "That is probably the most I can manage right now."
+  },
+  {
+    "id": 14,
+    "question": "How do I fit exercise in when my sleep is interrupted?",
+    "why_this_person_asks": "The kids do not always sleep through the night."
+  },
+  {
+    "id": 15,
+    "question": "What should I do if I miss a planned workout?",
+    "why_this_person_asks": "Family plans often change at the last minute."
+  },
+  {
+    "id": 16,
+    "question": "Are chair squats a good place to start?",
+    "why_this_person_asks": "I would feel more confident with something stable nearby."
+  },
+  {
+    "id": 17,
+    "question": "How can I make push-ups easier for a beginner?",
+    "why_this_person_asks": "Floor push-ups seem beyond me at the moment."
+  },
+  {
+    "id": 18,
+    "question": "Do I need special shoes to start walking for fitness?",
+    "why_this_person_asks": "I want to know what is actually necessary."
+  },
+  {
+    "id": 19,
+    "question": "What does core strength mean, and why should I work on it?",
+    "why_this_person_asks": "I hear about it but do not know what it involves."
+  },
+  {
+    "id": 20,
+    "question": "How can I avoid getting so sore that parenting feels harder the next day?",
+    "why_this_person_asks": "I cannot take a recovery day from looking after the kids."
+  },
+  {
+    "id": 21,
+    "question": "Is it better to exercise in the morning or whenever I can?",
+    "why_this_person_asks": "My schedule changes from day to day."
+  },
+  {
+    "id": 22,
+    "question": "What are signs that I’m doing too much too soon?",
+    "why_this_person_asks": "I want to build consistency without burning out."
+  },
+  {
+    "id": 23,
+    "question": "How can I track progress if I’m not focused on losing weight?",
+    "why_this_person_asks": "Feeling stronger and healthier matters more to me."
+  },
+  {
+    "id": 24,
+    "question": "Can playing actively with my kids help improve my fitness?",
+    "why_this_person_asks": "Family play is easier to schedule than a gym trip."
+  },
+  {
+    "id": 25,
+    "question": "What’s the difference between stretching and mobility work?",
+    "why_this_person_asks": "I do not know which one I should try."
+  },
+  {
+    "id": 26,
+    "question": "How can I get started if I feel embarrassed exercising around other people?",
+    "why_this_person_asks": "I have been inactive for a long time."
+  },
+  {
+    "id": 27,
+    "question": "Is bodyweight training enough for a beginner to build strength?",
+    "why_this_person_asks": "I am trying to work out what I need at home."
+  },
+  {
+    "id": 28,
+    "question": "How much protein do I need if I start doing strength exercises?",
+    "why_this_person_asks": "I want basic food guidance without a complicated diet."
+  },
+  {
+    "id": 29,
+    "question": "What quick meals can help me eat well on a busy family day?",
+    "why_this_person_asks": "I often end up eating whatever is easiest."
+  },
+  {
+    "id": 30,
+    "question": "Can I take a rest day after a bad night of sleep?",
+    "why_this_person_asks": "Some days I am running on very little rest."
+  },
+  {
+    "id": 31,
+    "question": "Why does my lower back feel tired after carrying my children?",
+    "why_this_person_asks": "I want to understand whether strength work might help."
+  },
+  {
+    "id": 32,
+    "question": "How do I set up a simple weekly routine I can adapt when plans change?",
+    "why_this_person_asks": "Rigid schedules rarely survive the week."
+  },
+  {
+    "id": 33,
+    "question": "What can I do at home while my toddler naps?",
+    "why_this_person_asks": "That is one of the few predictable quiet windows."
+  },
+  {
+    "id": 34,
+    "question": "Should I do cardio or strength training first as a beginner?",
+    "why_this_person_asks": "I want to use my limited time well."
+  },
+  {
+    "id": 35,
+    "question": "What is a realistic goal for my first month back to being active?",
+    "why_this_person_asks": "I want to start with expectations I can meet."
+  }
+]
