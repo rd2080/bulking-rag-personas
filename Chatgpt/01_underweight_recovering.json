@@ -2,211 +2,176 @@
   {
     "id": 1,
     "question": "What does a safe rate of weight gain usually look like?",
-    "why_this_person_asks": "I want a target that feels manageable and safe.",
-    "scope": "out"
+    "why_this_person_asks": "I want a target that feels manageable and safe."
   },
   {
     "id": 2,
     "question": "How can I tell whether I’m eating enough to gain weight?",
-    "why_this_person_asks": "I need a practical way to check my progress.",
-    "scope": "out"
+    "why_this_person_asks": "I need a practical way to check my progress."
   },
   {
     "id": 3,
     "question": "Should I try to eat more at every meal or add snacks?",
-    "why_this_person_asks": "Large meals are hard when I feel full quickly.",
-    "scope": "out"
+    "why_this_person_asks": "Large meals are hard when I feel full quickly."
   },
   {
     "id": 4,
     "question": "What are some calorie-dense foods that are still nourishing?",
-    "why_this_person_asks": "I want to add energy without relying only on sweets.",
-    "scope": "out"
+    "why_this_person_asks": "I want to add energy without relying only on sweets."
   },
   {
     "id": 5,
     "question": "How much protein do I need while trying to regain strength?",
-    "why_this_person_asks": "I have heard protein matters but do not know what amount means.",
-    "scope": "out"
+    "why_this_person_asks": "I have heard protein matters but do not know what amount means."
   },
   {
     "id": 6,
     "question": "Can I build strength with very light weights at first?",
-    "why_this_person_asks": "I feel weak and do not want to overdo it.",
-    "scope": "in"
+    "why_this_person_asks": "I feel weak and do not want to overdo it."
   },
   {
     "id": 7,
     "question": "How many days a week should a beginner strength train?",
-    "why_this_person_asks": "I need a schedule that leaves enough time to recover.",
-    "scope": "in"
+    "why_this_person_asks": "I need a schedule that leaves enough time to recover."
   },
   {
     "id": 8,
     "question": "What does progressive overload mean in plain language?",
-    "why_this_person_asks": "I keep seeing the term and do not understand it.",
-    "scope": "in"
+    "why_this_person_asks": "I keep seeing the term and do not understand it."
   },
   {
     "id": 9,
     "question": "Is it normal to feel tired while increasing my food intake?",
-    "why_this_person_asks": "I am already low on energy and want to know what to watch for.",
-    "scope": "out"
+    "why_this_person_asks": "I am already low on energy and want to know what to watch for."
   },
   {
     "id": 10,
     "question": "What should I do if my weight stays the same for a few weeks?",
-    "why_this_person_asks": "I want to adjust sensibly instead of guessing.",
-    "scope": "out"
+    "why_this_person_asks": "I want to adjust sensibly instead of guessing."
   },
   {
     "id": 11,
     "question": "Could weighing myself every day make it harder to track progress?",
-    "why_this_person_asks": "Daily changes make me anxious.",
-    "scope": "out"
+    "why_this_person_asks": "Daily changes make me anxious."
   },
   {
     "id": 12,
     "question": "Should I track calories, or is there a simpler way to start?",
-    "why_this_person_asks": "Counting everything feels like a lot right now.",
-    "scope": "out"
+    "why_this_person_asks": "Counting everything feels like a lot right now."
   },
   {
     "id": 13,
     "question": "What is the difference between gaining weight and gaining muscle?",
-    "why_this_person_asks": "I want to understand what kind of progress to expect.",
-    "scope": "out"
+    "why_this_person_asks": "I want to understand what kind of progress to expect."
   },
   {
     "id": 14,
     "question": "How can I add more food if my appetite is low in the morning?",
-    "why_this_person_asks": "Breakfast is usually the meal I struggle with.",
-    "scope": "out"
+    "why_this_person_asks": "Breakfast is usually the meal I struggle with."
   },
   {
     "id": 15,
     "question": "Would a smoothie help if solid food feels like too much?",
-    "why_this_person_asks": "Drinking something may be easier than another large plate.",
-    "scope": "out"
+    "why_this_person_asks": "Drinking something may be easier than another large plate."
   },
   {
     "id": 16,
     "question": "What are easy snacks I can keep nearby during the day?",
-    "why_this_person_asks": "I often realize late that I have not eaten enough.",
-    "scope": "out"
+    "why_this_person_asks": "I often realize late that I have not eaten enough."
   },
   {
     "id": 17,
     "question": "Do I need supplements to gain weight safely?",
-    "why_this_person_asks": "I see lots of products advertised and do not know what is necessary.",
-    "scope": "out"
+    "why_this_person_asks": "I see lots of products advertised and do not know what is necessary."
   },
   {
     "id": 18,
     "question": "Is creatine appropriate for someone who is underweight?",
-    "why_this_person_asks": "I want to check safety before trying a popular supplement.",
-    "scope": "out"
+    "why_this_person_asks": "I want to check safety before trying a popular supplement."
   },
   {
     "id": 19,
     "question": "How much water should I drink when I start exercising?",
-    "why_this_person_asks": "I want to avoid feeling unwell during workouts.",
-    "scope": "out"
+    "why_this_person_asks": "I want to avoid feeling unwell during workouts."
   },
   {
     "id": 20,
     "question": "Should I exercise if I feel unusually weak that day?",
-    "why_this_person_asks": "I am unsure when to rest.",
-    "scope": "partly"
+    "why_this_person_asks": "I am unsure when to rest."
   },
   {
     "id": 21,
     "question": "What signs mean I should stop a workout and get medical advice?",
-    "why_this_person_asks": "Safety is more important to me than pushing through.",
-    "scope": "partly"
+    "why_this_person_asks": "Safety is more important to me than pushing through."
   },
   {
     "id": 22,
     "question": "Can walking help my health while I work on gaining weight?",
-    "why_this_person_asks": "I do not want to become inactive, but I am cautious.",
-    "scope": "out"
+    "why_this_person_asks": "I do not want to become inactive, but I am cautious."
   },
   {
     "id": 23,
     "question": "What are sets and reps, and how should I choose them?",
-    "why_this_person_asks": "Workout plans use these words without explaining them.",
-    "scope": "in"
+    "why_this_person_asks": "Workout plans use these words without explaining them."
   },
   {
     "id": 24,
     "question": "How long should I rest between beginner strength exercises?",
-    "why_this_person_asks": "I need a simple starting point for recovery between sets.",
-    "scope": "in"
+    "why_this_person_asks": "I need a simple starting point for recovery between sets."
   },
   {
     "id": 25,
     "question": "Should I focus on full-body exercises or train one body part at a time?",
-    "why_this_person_asks": "I am new and want a straightforward routine.",
-    "scope": "in"
+    "why_this_person_asks": "I am new and want a straightforward routine."
   },
   {
     "id": 26,
     "question": "How can I make a simple balanced meal when I do not cook much?",
-    "why_this_person_asks": "Complicated meal plans would be hard for me to follow.",
-    "scope": "out"
+    "why_this_person_asks": "Complicated meal plans would be hard for me to follow."
   },
   {
     "id": 27,
     "question": "Is it okay if my appetite changes from day to day?",
-    "why_this_person_asks": "Some days eating feels much easier than others.",
-    "scope": "out"
+    "why_this_person_asks": "Some days eating feels much easier than others."
   },
   {
     "id": 28,
     "question": "Why might someone feel full after only a small amount of food?",
-    "why_this_person_asks": "This happens to me and I want to understand possible reasons.",
-    "scope": "out"
+    "why_this_person_asks": "This happens to me and I want to understand possible reasons."
   },
   {
     "id": 29,
     "question": "How can I tell whether a weight change is just water or real progress?",
-    "why_this_person_asks": "The scale moves around and I find that confusing.",
-    "scope": "in"
+    "why_this_person_asks": "The scale moves around and I find that confusing."
   },
   {
     "id": 30,
     "question": "What should I ask my doctor or dietitian at my next appointment?",
-    "why_this_person_asks": "I want to make the most of the professional support I have.",
-    "scope": "out"
+    "why_this_person_asks": "I want to make the most of the professional support I have."
   },
   {
     "id": 31,
     "question": "How much sleep matters for rebuilding strength?",
-    "why_this_person_asks": "I want to know how rest fits with food and exercise.",
-    "scope": "out"
+    "why_this_person_asks": "I want to know how rest fits with food and exercise."
   },
   {
     "id": 32,
     "question": "Can I split my food into five or six smaller meals?",
-    "why_this_person_asks": "Smaller portions may feel easier than three big meals.",
-    "scope": "out"
+    "why_this_person_asks": "Smaller portions may feel easier than three big meals."
   },
   {
     "id": 33,
     "question": "What is a realistic first-month goal besides a number on the scale?",
-    "why_this_person_asks": "I want to notice progress without putting pressure on myself.",
-    "scope": "partly"
+    "why_this_person_asks": "I want to notice progress without putting pressure on myself."
   },
   {
     "id": 34,
     "question": "How do I start lifting without worrying that I’ll hurt myself?",
-    "why_this_person_asks": "I feel nervous about getting the movements wrong.",
-    "scope": "partly"
+    "why_this_person_asks": "I feel nervous about getting the movements wrong."
   },
   {
     "id": 35,
     "question": "What should I do if trying to gain weight starts making me stressed?",
-    "why_this_person_asks": "I want this process to support my health, not take over my day.",
-    "scope": "out"
+    "why_this_person_asks": "I want this process to support my health, not take over my day."
   }
 ]
