@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "question": "Can you give me a simple workout I can do in my flat?",
+    "why_this_person_asks": "I have no gym and want a clear place to start."
+  },
+  {
+    "id": 2,
+    "question": "What are reps and sets?",
+    "why_this_person_asks": "Every routine says them and I am lost."
+  },
+  {
+    "id": 3,
+    "question": "How many days a week should I exercise as a total beginner?",
+    "why_this_person_asks": "I want something I can stick with."
+  },
+  {
+    "id": 4,
+    "question": "Do I need equipment to get stronger at home?",
+    "why_this_person_asks": "I only have a doorway bar, maybe."
+  },
+  {
+    "id": 5,
+    "question": "How do I do a push-up if I can’t do one yet?",
+    "why_this_person_asks": "Regular push-ups feel too difficult right now."
+  },
+  {
+    "id": 6,
+    "question": "What can I do instead of pull-ups?",
+    "why_this_person_asks": "I am not strong enough to do one."
+  },
+  {
+    "id": 7,
+    "question": "How do I make squats harder over time without weights?",
+    "why_this_person_asks": "I want to keep progressing at home."
+  },
+  {
+    "id": 8,
+    "question": "What does progressive overload mean?",
+    "why_this_person_asks": "I see it in videos and don’t get it."
+  },
+  {
+    "id": 9,
+    "question": "How long should a beginner workout take?",
+    "why_this_person_asks": "I do not have loads of free time."
+  },
+  {
+    "id": 10,
+    "question": "Is it okay to work out in a small room?",
+    "why_this_person_asks": "I have very limited floor space."
+  },
+  {
+    "id": 11,
+    "question": "How can I check my form if I’m exercising alone?",
+    "why_this_person_asks": "I do not want to learn bad habits."
+  },
+  {
+    "id": 12,
+    "question": "Should I warm up before a short bodyweight workout?",
+    "why_this_person_asks": "I am unsure what a warm-up actually needs."
+  },
+  {
+    "id": 13,
+    "question": "What is the difference between a lunge and a split squat?",
+    "why_this_person_asks": "They look similar when people demonstrate them."
+  },
+  {
+    "id": 14,
+    "question": "How much rest do I take between sets?",
+    "why_this_person_asks": "I don’t know if I should keep moving or pause."
+  },
+  {
+    "id": 15,
+    "question": "Can I do the same routine every day?",
+    "why_this_person_asks": "Repeating it sounds easier to remember."
+  },
+  {
+    "id": 16,
+    "question": "What should I do if I feel sore the day after my first workout?",
+    "why_this_person_asks": "I want to know whether that is expected."
+  },
+  {
+    "id": 17,
+    "question": "How can I exercise quietly so I don’t bother my downstairs neighbors?",
+    "why_this_person_asks": "Jumping around is not an option in my flat."
+  },
+  {
+    "id": 18,
+    "question": "Are wall push-ups useful or too easy to count?",
+    "why_this_person_asks": "I need a version I can actually do."
+  },
+  {
+    "id": 19,
+    "question": "Can walking help me get fitter if I’m not ready for workouts?",
+    "why_this_person_asks": "Walking feels like a less intimidating start."
+  },
+  {
+    "id": 20,
+    "question": "What are some beginner exercises for my back with no equipment?",
+    "why_this_person_asks": "Most of the routines I find focus on push-ups."
+  },
+  {
+    "id": 21,
+    "question": "How do I know if an exercise is working the right muscles?",
+    "why_this_person_asks": "I’m never sure what I should be feeling."
+  },
+  {
+    "id": 22,
+    "question": "What does a full-body workout mean?",
+    "why_this_person_asks": "I hear that phrase but don’t know what it includes."
+  },
+  {
+    "id": 23,
+    "question": "Can you explain the difference between strength and muscle size?",
+    "why_this_person_asks": "I would like to know what I am training for."
+  },
+  {
+    "id": 24,
+    "question": "How do I keep a doorway pull-up bar from damaging the frame?",
+    "why_this_person_asks": "I want to be careful with the only equipment I might buy."
+  },
+  {
+    "id": 25,
+    "question": "What should I eat after a bodyweight workout?",
+    "why_this_person_asks": "Fitness advice online makes this sound complicated."
+  },
+  {
+    "id": 26,
+    "question": "Do I need protein powder if I’m working out at home?",
+    "why_this_person_asks": "I’d rather not buy something unless I need it."
+  },
+  {
+    "id": 27,
+    "question": "How do I build a routine when I keep forgetting to exercise?",
+    "why_this_person_asks": "I need a practical way to make it a habit."
+  },
+  {
+    "id": 28,
+    "question": "What is a good beginner alternative to burpees?",
+    "why_this_person_asks": "They look exhausting and loud."
+  },
+  {
+    "id": 29,
+    "question": "How many push-ups should I aim for if I can only do two?",
+    "why_this_person_asks": "I want a realistic way to improve."
+  },
+  {
+    "id": 30,
+    "question": "Should I stretch before or after working out?",
+    "why_this_person_asks": "Different videos seem to say different things."
+  },
+  {
+    "id": 31,
+    "question": "What does training to failure mean, and should I do it?",
+    "why_this_person_asks": "People recommend it but I do not know if a beginner should."
+  },
+  {
+    "id": 32,
+    "question": "How can I make a workout easier on days when I’m tired?",
+    "why_this_person_asks": "I want to keep the habit without forcing a hard session."
+  },
+  {
+    "id": 33,
+    "question": "Why do I get out of breath so quickly when exercising?",
+    "why_this_person_asks": "I am not sure what is normal for a beginner."
+  },
+  {
+    "id": 34,
+    "question": "Can I get stronger with just a backpack filled with books?",
+    "why_this_person_asks": "I am curious about safe ways to add resistance."
+  },
+  {
+    "id": 35,
+    "question": "What is the simplest weekly plan I can follow for a month?",
+    "why_this_person_asks": "A short repeatable plan would help me get started."
+  }
+]
