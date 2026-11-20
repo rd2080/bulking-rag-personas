@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "question": "Can you help me make a simple bodyweight routine from scratch?",
+    "why_this_person_asks": "I’m new to training and want an easy place to start."
+  },
+  {
+    "id": 2,
+    "question": "How many days a week should I work out as a beginner?",
+    "why_this_person_asks": "I want a schedule I can actually keep up with."
+  },
+  {
+    "id": 3,
+    "question": "What do sets and reps mean?",
+    "why_this_person_asks": "I see those words in every routine and don’t understand them."
+  },
+  {
+    "id": 4,
+    "question": "How many reps should I try to do when I’m just starting?",
+    "why_this_person_asks": "I need a simple way to know when a set is done."
+  },
+  {
+    "id": 5,
+    "question": "How long should I rest between sets?",
+    "why_this_person_asks": "I’m not sure whether to take a break or keep going."
+  },
+  {
+    "id": 6,
+    "question": "How do I make a bodyweight workout harder over time?",
+    "why_this_person_asks": "I don’t have weights and want to know how to keep improving."
+  },
+  {
+    "id": 7,
+    "question": "What does progression mean in a workout?",
+    "why_this_person_asks": "People use that word but I’m not sure what it means."
+  },
+  {
+    "id": 8,
+    "question": "Should I do the same full-body workout every time or split up muscle groups?",
+    "why_this_person_asks": "I don’t know how to organize my week."
+  },
+  {
+    "id": 9,
+    "question": "How long does a beginner home workout need to be?",
+    "why_this_person_asks": "I live in a small flat and have limited time."
+  },
+  {
+    "id": 10,
+    "question": "Do I need any equipment to get stronger at home?",
+    "why_this_person_asks": "I don’t have a gym and only maybe have a doorway bar."
+  },
+  {
+    "id": 11,
+    "question": "How can I tell if I’m working hard enough?",
+    "why_this_person_asks": "I don’t know what a good effort level should feel like."
+  },
+  {
+    "id": 12,
+    "question": "What does training to failure mean, and should I do that?",
+    "why_this_person_asks": "I hear the phrase but I’m a complete beginner."
+  },
+  {
+    "id": 13,
+    "question": "If I can only do a few reps of something, what should I do next?",
+    "why_this_person_asks": "I want to get stronger without picking a routine that’s too hard."
+  },
+  {
+    "id": 14,
+    "question": "How do I know when it’s time to move on to a harder version?",
+    "why_this_person_asks": "I don’t want to make things harder too soon."
+  },
+  {
+    "id": 15,
+    "question": "Can I work out every day if I’m doing bodyweight exercises?",
+    "why_this_person_asks": "I’m not sure how much rest I need."
+  },
+  {
+    "id": 16,
+    "question": "What should I do on rest days?",
+    "why_this_person_asks": "I want to know whether I should just do nothing."
+  },
+  {
+    "id": 17,
+    "question": "How sore is normal after starting a new routine?",
+    "why_this_person_asks": "I’m worried I might overdo it."
+  },
+  {
+    "id": 18,
+    "question": "What should I do if I’m still really tired when my next workout is planned?",
+    "why_this_person_asks": "I’m trying to figure out when to rest."
+  },
+  {
+    "id": 19,
+    "question": "How can I tell if I’m doing too much training?",
+    "why_this_person_asks": "I don’t know what signs to look out for."
+  },
+  {
+    "id": 20,
+    "question": "Do I need a lighter week sometimes, or is that only for advanced people?",
+    "why_this_person_asks": "I’ve heard people talk about easier weeks and don’t know if it applies to me."
+  },
+  {
+    "id": 21,
+    "question": "What’s the difference between doing more reps and choosing a harder variation?",
+    "why_this_person_asks": "I’m not sure which way I should progress."
+  },
+  {
+    "id": 22,
+    "question": "How do I keep track of my workouts without making it complicated?",
+    "why_this_person_asks": "I’d like to see if I’m getting better."
+  },
+  {
+    "id": 23,
+    "question": "What’s a realistic goal for my first month of bodyweight training?",
+    "why_this_person_asks": "I’m new and don’t want to expect too much too soon."
+  },
+  {
+    "id": 24,
+    "question": "Should I try to beat my previous workout every time?",
+    "why_this_person_asks": "I want to improve but don’t know how quickly to push."
+  },
+  {
+    "id": 25,
+    "question": "If I miss a week, should I pick up where I left off or start easier?",
+    "why_this_person_asks": "My schedule can get busy and I’m not sure how to return."
+  },
+  {
+    "id": 26,
+    "question": "How should I start training again after taking a long break?",
+    "why_this_person_asks": "I don’t want to jump straight back into too much."
+  },
+  {
+    "id": 27,
+    "question": "What should I do if a movement feels uncomfortable while I’m training?",
+    "why_this_person_asks": "I’m not sure whether to keep going or change it."
+  },
+  {
+    "id": 28,
+    "question": "How do I tell the difference between normal effort and pain?",
+    "why_this_person_asks": "I’m worried about hurting myself when I train alone."
+  },
+  {
+    "id": 29,
+    "question": "If I have a minor ache, should I skip that workout or do an easier one?",
+    "why_this_person_asks": "I want to be cautious without giving up completely."
+  },
+  {
+    "id": 30,
+    "question": "Can I do a shorter workout if I don’t have much energy that day?",
+    "why_this_person_asks": "I want to keep a routine even when I’m tired."
+  },
+  {
+    "id": 31,
+    "question": "How many exercises should I put in one workout?",
+    "why_this_person_asks": "Most plans have different numbers and I don’t know what’s right for a beginner."
+  },
+  {
+    "id": 32,
+    "question": "Should I do all my exercises in a row or repeat them in rounds?",
+    "why_this_person_asks": "I’m not sure how a workout is supposed to flow."
+  },
+  {
+    "id": 33,
+    "question": "How do I fit workouts into my week if my schedule changes?",
+    "why_this_person_asks": "I need something flexible that works at home."
+  },
+  {
+    "id": 34,
+    "question": "Why do I feel like I’m getting better at some movements but not others?",
+    "why_this_person_asks": "My progress seems uneven and I don’t know if that’s normal."
+  },
+  {
+    "id": 35,
+    "question": "How can I tell if my routine is working if I’m not tracking my weight?",
+    "why_this_person_asks": "I want to measure progress in a simple way."
+  }
+]
