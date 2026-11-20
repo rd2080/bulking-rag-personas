@@ -3,210 +3,315 @@
     "id": 1,
     "persona": "01_underweight_recovering",
     "question": "What does a safe rate of weight gain usually look like?",
-    "why_this_person_asks": "I want a target that feels manageable and safe."
+    "why_this_person_asks": "I want a target that feels manageable and safe.",
+    "scope": "out",
+    "duplicate_of": 1,
+    "match": "exact"
   },
   {
     "id": 2,
     "persona": "01_underweight_recovering",
     "question": "How can I tell whether I am eating enough to gain weight?",
-    "why_this_person_asks": "I need a practical way to check my progress."
+    "why_this_person_asks": "I need a practical way to check my progress.",
+    "scope": "out",
+    "duplicate_of": 2,
+    "match": "near"
   },
   {
     "id": 3,
     "persona": "01_underweight_recovering",
     "question": "Should I add snacks instead of trying to eat very large meals?",
-    "why_this_person_asks": "Large meals are hard when I feel full quickly."
+    "why_this_person_asks": "Large meals are hard when I feel full quickly.",
+    "scope": "out",
+    "duplicate_of": 3,
+    "match": "near"
   },
   {
     "id": 4,
     "persona": "01_underweight_recovering",
     "question": "How much protein do I need while trying to regain strength?",
-    "why_this_person_asks": "I have heard protein matters but do not know what amount means."
+    "why_this_person_asks": "I have heard protein matters but do not know what amount means.",
+    "scope": "out",
+    "duplicate_of": 5,
+    "match": "exact"
   },
   {
     "id": 5,
     "persona": "01_underweight_recovering",
     "question": "Can I build strength with very light weights at first?",
-    "why_this_person_asks": "I feel weak and do not want to overdo it."
+    "why_this_person_asks": "I feel weak and do not want to overdo it.",
+    "scope": "in",
+    "duplicate_of": 6,
+    "match": "exact"
   },
   {
     "id": 6,
     "persona": "01_underweight_recovering",
     "question": "What signs mean I should stop a workout and get medical advice?",
-    "why_this_person_asks": "Safety is more important to me than pushing through."
+    "why_this_person_asks": "Safety is more important to me than pushing through.",
+    "scope": "partly",
+    "duplicate_of": 21,
+    "match": "exact"
   },
   {
     "id": 7,
     "persona": "01_underweight_recovering",
     "question": "What should I ask my doctor or dietitian at my next appointment?",
-    "why_this_person_asks": "I want to make the most of the professional support I have."
+    "why_this_person_asks": "I want to make the most of the professional support I have.",
+    "scope": "out",
+    "duplicate_of": 30,
+    "match": "exact"
   },
   {
     "id": 8,
     "persona": "02_beginner_no_gym",
     "question": "Can you give me a simple workout I can do in my flat?",
-    "why_this_person_asks": "I have no gym and want a clear place to start."
+    "why_this_person_asks": "I have no gym and want a clear place to start.",
+    "scope": "in",
+    "duplicate_of": 1,
+    "match": "exact"
   },
   {
     "id": 9,
     "persona": "02_beginner_no_gym",
     "question": "What are reps and sets?",
-    "why_this_person_asks": "Every routine says them and I am lost."
+    "why_this_person_asks": "Every routine says them and I am lost.",
+    "scope": "in",
+    "duplicate_of": 2,
+    "match": "exact"
   },
   {
     "id": 10,
     "persona": "02_beginner_no_gym",
     "question": "How do I do a push-up if I cannot do one yet?",
-    "why_this_person_asks": "Regular push-ups feel too difficult right now."
+    "why_this_person_asks": "Regular push-ups feel too difficult right now.",
+    "scope": "in",
+    "duplicate_of": 5,
+    "match": "near"
   },
   {
     "id": 11,
     "persona": "02_beginner_no_gym",
     "question": "What can I do instead of pull-ups?",
-    "why_this_person_asks": "I am not strong enough to do one."
+    "why_this_person_asks": "I am not strong enough to do one.",
+    "scope": "in",
+    "duplicate_of": 6,
+    "match": "exact"
   },
   {
     "id": 12,
     "persona": "02_beginner_no_gym",
     "question": "How do I make squats harder over time without weights?",
-    "why_this_person_asks": "I want to keep progressing at home."
+    "why_this_person_asks": "I want to keep progressing at home.",
+    "scope": "in",
+    "duplicate_of": 7,
+    "match": "exact"
   },
   {
     "id": 13,
     "persona": "02_beginner_no_gym",
     "question": "How much rest do I take between sets?",
-    "why_this_person_asks": "I do not know if I should keep moving or pause."
+    "why_this_person_asks": "I do not know if I should keep moving or pause.",
+    "scope": "in",
+    "duplicate_of": 14,
+    "match": "exact"
   },
   {
     "id": 14,
     "persona": "02_beginner_no_gym",
     "question": "What is the simplest weekly plan I can follow for a month?",
-    "why_this_person_asks": "A short repeatable plan would help me get started."
+    "why_this_person_asks": "A short repeatable plan would help me get started.",
+    "scope": "in",
+    "duplicate_of": 35,
+    "match": "exact"
   },
   {
     "id": 15,
     "persona": "03_student_budget",
     "question": "What are the cheapest foods that can help me get enough protein?",
-    "why_this_person_asks": "I need options that fit a student budget."
+    "why_this_person_asks": "I need options that fit a student budget.",
+    "scope": "out",
+    "duplicate_of": 1,
+    "match": "exact"
   },
   {
     "id": 16,
     "persona": "03_student_budget",
     "question": "Can I build muscle without buying protein powder?",
-    "why_this_person_asks": "Supplements feel expensive and I am unsure they are needed."
+    "why_this_person_asks": "Supplements feel expensive and I am unsure they are needed.",
+    "scope": "out",
+    "duplicate_of": 2,
+    "match": "exact"
   },
   {
     "id": 17,
     "persona": "03_student_budget",
     "question": "What should I prioritize if I only have 30 minutes to work out?",
-    "why_this_person_asks": "My timetable is crowded."
+    "why_this_person_asks": "My timetable is crowded.",
+    "scope": "partly",
+    "duplicate_of": 3,
+    "match": "exact"
   },
   {
     "id": 18,
     "persona": "03_student_budget",
     "question": "How much protein should I aim for each day if I lift?",
-    "why_this_person_asks": "I have seen wildly different numbers online."
+    "why_this_person_asks": "I have seen wildly different numbers online.",
+    "scope": "out",
+    "duplicate_of": 10,
+    "match": "exact"
   },
   {
     "id": 19,
     "persona": "03_student_budget",
     "question": "Are resistance bands worth buying for a small room?",
-    "why_this_person_asks": "I am weighing up a low-cost equipment purchase."
+    "why_this_person_asks": "I am weighing up a low-cost equipment purchase.",
+    "scope": "out",
+    "duplicate_of": 15,
+    "match": "exact"
   },
   {
     "id": 20,
     "persona": "03_student_budget",
     "question": "Which matters more on a tight budget, protein or total calories?",
-    "why_this_person_asks": "I need to know where to spend limited food money."
+    "why_this_person_asks": "I need to know where to spend limited food money.",
+    "scope": "out",
+    "duplicate_of": 19,
+    "match": "exact"
   },
   {
     "id": 21,
     "persona": "03_student_budget",
     "question": "How can I balance training with exams without losing all my progress?",
-    "why_this_person_asks": "My routine usually slips during exam weeks."
+    "why_this_person_asks": "My routine usually slips during exam weeks.",
+    "scope": "out",
+    "duplicate_of": 35,
+    "match": "exact"
   },
   {
     "id": 22,
     "persona": "04_parent_new_to_exercise",
     "question": "What is the shortest workout that can still help me get stronger?",
-    "why_this_person_asks": "I have two young kids and very little free time."
+    "why_this_person_asks": "I have two young kids and very little free time.",
+    "scope": "partly",
+    "duplicate_of": 1,
+    "match": "near"
   },
   {
     "id": 23,
     "persona": "04_parent_new_to_exercise",
     "question": "Can I exercise in 10-minute chunks during the day?",
-    "why_this_person_asks": "A single long block is hard to find."
+    "why_this_person_asks": "A single long block is hard to find.",
+    "scope": "partly",
+    "duplicate_of": 2,
+    "match": "exact"
   },
   {
     "id": 24,
     "persona": "04_parent_new_to_exercise",
     "question": "What are safe beginner exercises if I have been sedentary for years?",
-    "why_this_person_asks": "I want to ease in without getting hurt."
+    "why_this_person_asks": "I want to ease in without getting hurt.",
+    "scope": "in",
+    "duplicate_of": 3,
+    "match": "near"
   },
   {
     "id": 25,
     "persona": "04_parent_new_to_exercise",
     "question": "How do I know whether I should stop because something hurts?",
-    "why_this_person_asks": "I want to be careful as I get started."
+    "why_this_person_asks": "I want to be careful as I get started.",
+    "scope": "partly",
+    "duplicate_of": 7,
+    "match": "exact"
   },
   {
     "id": 26,
     "persona": "04_parent_new_to_exercise",
     "question": "What simple strength exercises can I do at home with no equipment?",
-    "why_this_person_asks": "I would rather start without buying anything."
+    "why_this_person_asks": "I would rather start without buying anything.",
+    "scope": "in",
+    "duplicate_of": 9,
+    "match": "exact"
   },
   {
     "id": 27,
     "persona": "04_parent_new_to_exercise",
     "question": "How can I avoid getting so sore that parenting feels harder the next day?",
-    "why_this_person_asks": "I cannot take a recovery day from looking after the kids."
+    "why_this_person_asks": "I cannot take a recovery day from looking after the kids.",
+    "scope": "out",
+    "duplicate_of": 20,
+    "match": "exact"
   },
   {
     "id": 28,
     "persona": "04_parent_new_to_exercise",
     "question": "What is a realistic goal for my first month back to being active?",
-    "why_this_person_asks": "I want to start with expectations I can meet."
+    "why_this_person_asks": "I want to start with expectations I can meet.",
+    "scope": "partly",
+    "duplicate_of": 35,
+    "match": "exact"
   },
   {
     "id": 29,
     "persona": "05_returning_after_injury",
     "question": "How should I decide whether my shoulder is ready for push-ups again?",
-    "why_this_person_asks": "I want a gradual return without repeating my earlier mistake."
+    "why_this_person_asks": "I want a gradual return without repeating my earlier mistake.",
+    "scope": "partly",
+    "duplicate_of": 1,
+    "match": "exact"
   },
   {
     "id": 30,
     "persona": "05_returning_after_injury",
     "question": "How do I tell normal muscle soreness from pain that could signal a problem?",
-    "why_this_person_asks": "I have rushed through warning signs before."
+    "why_this_person_asks": "I have rushed through warning signs before.",
+    "scope": "partly",
+    "duplicate_of": 3,
+    "match": "exact"
   },
   {
     "id": 31,
     "persona": "05_returning_after_injury",
     "question": "How can I scale a bench press while rebuilding after a shoulder injury?",
-    "why_this_person_asks": "I want to reintroduce a movement I used to do."
+    "why_this_person_asks": "I want to reintroduce a movement I used to do.",
+    "scope": "partly",
+    "duplicate_of": 5,
+    "match": "exact"
   },
   {
     "id": 32,
     "persona": "05_returning_after_injury",
     "question": "What is a sensible way to increase weight after time off?",
-    "why_this_person_asks": "I tend to progress too quickly when I feel better."
+    "why_this_person_asks": "I tend to progress too quickly when I feel better.",
+    "scope": "partly",
+    "duplicate_of": 6,
+    "match": "exact"
   },
   {
     "id": 33,
     "persona": "05_returning_after_injury",
     "question": "Should I avoid training to failure while returning from injury?",
-    "why_this_person_asks": "I know I can get impatient once strength starts coming back."
+    "why_this_person_asks": "I know I can get impatient once strength starts coming back.",
+    "scope": "partly",
+    "duplicate_of": 20,
+    "match": "exact"
   },
   {
     "id": 34,
     "persona": "05_returning_after_injury",
     "question": "How should I respond if pain comes back during a workout?",
-    "why_this_person_asks": "I need a plan for adjusting instead of pushing through."
+    "why_this_person_asks": "I need a plan for adjusting instead of pushing through.",
+    "scope": "partly",
+    "duplicate_of": 27,
+    "match": "exact"
   },
   {
     "id": 35,
     "persona": "05_returning_after_injury",
     "question": "What signs mean I should contact my clinician instead of adjusting my workout myself?",
-    "why_this_person_asks": "I want clear boundaries for when professional input matters."
+    "why_this_person_asks": "I want clear boundaries for when professional input matters.",
+    "scope": "out",
+    "duplicate_of": 35,
+    "match": "exact"
   }
 ]

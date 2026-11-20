@@ -2,176 +2,211 @@
   {
     "id": 1,
     "question": "What are the cheapest foods that can help me get enough protein?",
-    "why_this_person_asks": "I need options that fit a student budget."
+    "why_this_person_asks": "I need options that fit a student budget.",
+    "scope": "out"
   },
   {
     "id": 2,
     "question": "Can I build muscle without buying protein powder?",
-    "why_this_person_asks": "Supplements feel expensive and I am unsure they are needed."
+    "why_this_person_asks": "Supplements feel expensive and I am unsure they are needed.",
+    "scope": "out"
   },
   {
     "id": 3,
     "question": "What should I prioritize if I only have 30 minutes to work out?",
-    "why_this_person_asks": "My timetable is crowded."
+    "why_this_person_asks": "My timetable is crowded.",
+    "scope": "partly"
   },
   {
     "id": 4,
     "question": "How many workouts a week are enough to make progress?",
-    "why_this_person_asks": "I need a plan that fits around classes."
+    "why_this_person_asks": "I need a plan that fits around classes.",
+    "scope": "in"
   },
   {
     "id": 5,
     "question": "Is canned tuna a good budget protein, and how often is reasonable?",
-    "why_this_person_asks": "I often shop for low-cost staples."
+    "why_this_person_asks": "I often shop for low-cost staples.",
+    "scope": "out"
   },
   {
     "id": 6,
     "question": "What are some cheap high-protein vegetarian meals?",
-    "why_this_person_asks": "I want alternatives to meat that do not cost much."
+    "why_this_person_asks": "I want alternatives to meat that do not cost much.",
+    "scope": "out"
   },
   {
     "id": 7,
     "question": "How can I meal prep if I only have a mini fridge?",
-    "why_this_person_asks": "My student kitchen space is limited."
+    "why_this_person_asks": "My student kitchen space is limited.",
+    "scope": "out"
   },
   {
     "id": 8,
     "question": "Do frozen vegetables have similar nutrition to fresh ones?",
-    "why_this_person_asks": "Frozen food is easier for me to keep on hand."
+    "why_this_person_asks": "Frozen food is easier for me to keep on hand.",
+    "scope": "out"
   },
   {
     "id": 9,
     "question": "What is the difference between calories and macros?",
-    "why_this_person_asks": "People use both terms in fitness advice."
+    "why_this_person_asks": "People use both terms in fitness advice.",
+    "scope": "out"
   },
   {
     "id": 10,
     "question": "How much protein should I aim for each day if I lift?",
-    "why_this_person_asks": "I have seen wildly different numbers online."
+    "why_this_person_asks": "I have seen wildly different numbers online.",
+    "scope": "out"
   },
   {
     "id": 11,
     "question": "Can I still make progress if my sleep schedule is irregular?",
-    "why_this_person_asks": "Late study nights happen pretty often."
+    "why_this_person_asks": "Late study nights happen pretty often.",
+    "scope": "out"
   },
   {
     "id": 12,
     "question": "Should I work out before or after a long day of lectures?",
-    "why_this_person_asks": "My energy varies a lot through the week."
+    "why_this_person_asks": "My energy varies a lot through the week.",
+    "scope": "out"
   },
   {
     "id": 13,
     "question": "What is the best way to track whether I’m getting stronger?",
-    "why_this_person_asks": "I want something simple that does not cost money."
+    "why_this_person_asks": "I want something simple that does not cost money.",
+    "scope": "partly"
   },
   {
     "id": 14,
     "question": "How do I start lifting at a gym without paying for a trainer?",
-    "why_this_person_asks": "I can access the campus gym but feel unsure what to do."
+    "why_this_person_asks": "I can access the campus gym but feel unsure what to do.",
+    "scope": "out"
   },
   {
     "id": 15,
     "question": "Are resistance bands worth buying for a small room?",
-    "why_this_person_asks": "I am weighing up a low-cost equipment purchase."
+    "why_this_person_asks": "I am weighing up a low-cost equipment purchase.",
+    "scope": "out"
   },
   {
     "id": 16,
     "question": "What does maintenance calories mean?",
-    "why_this_person_asks": "I keep hearing this in videos and forums."
+    "why_this_person_asks": "I keep hearing this in videos and forums.",
+    "scope": "out"
   },
   {
     "id": 17,
     "question": "Is eating instant noodles sometimes a problem for muscle gain?",
-    "why_this_person_asks": "They are cheap and convenient when deadlines pile up."
+    "why_this_person_asks": "They are cheap and convenient when deadlines pile up.",
+    "scope": "out"
   },
   {
     "id": 18,
     "question": "How can I make a filling breakfast quickly before class?",
-    "why_this_person_asks": "I do not have much time in the morning."
+    "why_this_person_asks": "I do not have much time in the morning.",
+    "scope": "out"
   },
   {
     "id": 19,
     "question": "Which matters more on a tight budget, protein or total calories?",
-    "why_this_person_asks": "I need to know where to spend limited food money."
+    "why_this_person_asks": "I need to know where to spend limited food money.",
+    "scope": "out"
   },
   {
     "id": 20,
     "question": "Can beans and rice together make a useful meal for training?",
-    "why_this_person_asks": "Both are inexpensive staples where I shop."
+    "why_this_person_asks": "Both are inexpensive staples where I shop.",
+    "scope": "out"
   },
   {
     "id": 21,
     "question": "How do I choose between buying creatine and buying more food?",
-    "why_this_person_asks": "I have a small amount of money for fitness."
+    "why_this_person_asks": "I have a small amount of money for fitness.",
+    "scope": "out"
   },
   {
     "id": 22,
     "question": "Is it okay to train late at night if that’s my only free time?",
-    "why_this_person_asks": "My schedule often leaves evenings as the only option."
+    "why_this_person_asks": "My schedule often leaves evenings as the only option.",
+    "scope": "out"
   },
   {
     "id": 23,
     "question": "How much rest should I take between sets if I’m short on time?",
-    "why_this_person_asks": "I want my workouts to be efficient."
+    "why_this_person_asks": "I want my workouts to be efficient.",
+    "scope": "in"
   },
   {
     "id": 24,
     "question": "What are the most useful beginner exercises at a basic campus gym?",
-    "why_this_person_asks": "The equipment area feels overwhelming."
+    "why_this_person_asks": "The equipment area feels overwhelming.",
+    "scope": "partly"
   },
   {
     "id": 25,
     "question": "How can I get enough vegetables without spending much?",
-    "why_this_person_asks": "Fresh produce can go bad before I use it."
+    "why_this_person_asks": "Fresh produce can go bad before I use it.",
+    "scope": "out"
   },
   {
     "id": 26,
     "question": "Why does my weight change so much after salty takeout?",
-    "why_this_person_asks": "I sometimes worry that the scale means I gained fat."
+    "why_this_person_asks": "I sometimes worry that the scale means I gained fat.",
+    "scope": "out"
   },
   {
     "id": 27,
     "question": "What is a realistic rate of muscle gain for a beginner?",
-    "why_this_person_asks": "Social media makes progress look extremely fast."
+    "why_this_person_asks": "Social media makes progress look extremely fast.",
+    "scope": "partly"
   },
   {
     "id": 28,
     "question": "Do I need to count calories to get fitter?",
-    "why_this_person_asks": "Tracking sounds time-consuming."
+    "why_this_person_asks": "Tracking sounds time-consuming.",
+    "scope": "out"
   },
   {
     "id": 29,
     "question": "How can I eat well when the dining hall menu changes every day?",
-    "why_this_person_asks": "I do not control most of my meals."
+    "why_this_person_asks": "I do not control most of my meals.",
+    "scope": "out"
   },
   {
     "id": 30,
     "question": "What should I pack as a cheap snack between classes and the gym?",
-    "why_this_person_asks": "I am often hungry when I leave campus."
+    "why_this_person_asks": "I am often hungry when I leave campus.",
+    "scope": "out"
   },
   {
     "id": 31,
     "question": "Can I do a full workout with dumbbells at my residence hall?",
-    "why_this_person_asks": "The gym gets crowded and I want a backup option."
+    "why_this_person_asks": "The gym gets crowded and I want a backup option.",
+    "scope": "out"
   },
   {
     "id": 32,
     "question": "How do I tell if an online fitness tip is just marketing?",
-    "why_this_person_asks": "I see conflicting advice and sponsored products."
+    "why_this_person_asks": "I see conflicting advice and sponsored products.",
+    "scope": "out"
   },
   {
     "id": 33,
     "question": "Is one hard workout on the weekend better than no training?",
-    "why_this_person_asks": "Weekdays can get consumed by studying."
+    "why_this_person_asks": "Weekdays can get consumed by studying.",
+    "scope": "partly"
   },
   {
     "id": 34,
     "question": "What are inexpensive ways to add more calories if I’m trying to gain weight?",
-    "why_this_person_asks": "I need affordable foods that are easy to eat."
+    "why_this_person_asks": "I need affordable foods that are easy to eat.",
+    "scope": "out"
   },
   {
     "id": 35,
     "question": "How can I balance training with exams without losing all my progress?",
-    "why_this_person_asks": "My routine usually slips during exam weeks."
+    "why_this_person_asks": "My routine usually slips during exam weeks.",
+    "scope": "out"
   }
 ]
