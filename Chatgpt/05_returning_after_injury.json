@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "question": "How should I decide whether my shoulder is ready for push-ups again?",
+    "why_this_person_asks": "I want a gradual return without repeating my earlier mistake."
+  },
+  {
+    "id": 2,
+    "question": "What does pain-free range of motion mean in rehab advice?",
+    "why_this_person_asks": "I am not sure how strictly to interpret it."
+  },
+  {
+    "id": 3,
+    "question": "How do I tell normal muscle soreness from pain that could signal a problem?",
+    "why_this_person_asks": "I have rushed through warning signs before."
+  },
+  {
+    "id": 4,
+    "question": "Should I get clearance from my physiotherapist before returning to lifting?",
+    "why_this_person_asks": "I want to coordinate training with my recovery."
+  },
+  {
+    "id": 5,
+    "question": "How can I scale a bench press while rebuilding after a shoulder injury?",
+    "why_this_person_asks": "I want to reintroduce a movement I used to do."
+  },
+  {
+    "id": 6,
+    "question": "What is a sensible way to increase weight after time off?",
+    "why_this_person_asks": "I tend to progress too quickly when I feel better."
+  },
+  {
+    "id": 7,
+    "question": "How many rest days should I take between upper-body sessions?",
+    "why_this_person_asks": "I want to give the area time to recover."
+  },
+  {
+    "id": 8,
+    "question": "Can I train my legs while my shoulder is still recovering?",
+    "why_this_person_asks": "I would like to stay active without aggravating it."
+  },
+  {
+    "id": 9,
+    "question": "What does RPE mean, and how could I use it during a return to training?",
+    "why_this_person_asks": "I track workouts but have not used this scale."
+  },
+  {
+    "id": 10,
+    "question": "How does a deload week work?",
+    "why_this_person_asks": "I have heard it may help manage training load."
+  },
+  {
+    "id": 11,
+    "question": "Is it better to do more light reps or fewer heavier reps during a comeback?",
+    "why_this_person_asks": "I am trying to choose a cautious starting point."
+  },
+  {
+    "id": 12,
+    "question": "How do I know whether next-day soreness means I did too much?",
+    "why_this_person_asks": "I want a way to assess my response after a session."
+  },
+  {
+    "id": 13,
+    "question": "What shoulder warm-up should I do before upper-body training?",
+    "why_this_person_asks": "I want to prepare without assuming a warm-up prevents injury."
+  },
+  {
+    "id": 14,
+    "question": "Can I do rows if overhead pressing still bothers my shoulder?",
+    "why_this_person_asks": "Different movements affect me differently."
+  },
+  {
+    "id": 15,
+    "question": "What are alternatives to dips while my shoulder is recovering?",
+    "why_this_person_asks": "Dips were part of my old routine but feel questionable now."
+  },
+  {
+    "id": 16,
+    "question": "How should I rebuild grip and elbow strength after an elbow injury?",
+    "why_this_person_asks": "I want to return to training with a clear progression."
+  },
+  {
+    "id": 17,
+    "question": "Does a little discomfort during rehab always mean I should stop?",
+    "why_this_person_asks": "Advice on pain is often hard to interpret."
+  },
+  {
+    "id": 18,
+    "question": "What questions should I bring to my next physio appointment?",
+    "why_this_person_asks": "I want to make sure I get useful guidance."
+  },
+  {
+    "id": 19,
+    "question": "How can I keep a training log that helps me spot flare-ups?",
+    "why_this_person_asks": "I need to connect workout changes with symptoms."
+  },
+  {
+    "id": 20,
+    "question": "Should I avoid training to failure while returning from injury?",
+    "why_this_person_asks": "I know I can get impatient once strength starts coming back."
+  },
+  {
+    "id": 21,
+    "question": "What is the difference between mobility and flexibility for shoulder recovery?",
+    "why_this_person_asks": "I am trying to understand what my program is targeting."
+  },
+  {
+    "id": 22,
+    "question": "How can I modify pull-ups if hanging irritates my shoulder?",
+    "why_this_person_asks": "I would like to work toward my old skills safely."
+  },
+  {
+    "id": 23,
+    "question": "When is it reasonable to add overhead work again?",
+    "why_this_person_asks": "That movement is important to my sport and training."
+  },
+  {
+    "id": 24,
+    "question": "Could poor sleep affect how well I tolerate training during recovery?",
+    "why_this_person_asks": "My schedule has been inconsistent."
+  },
+  {
+    "id": 25,
+    "question": "How do I maintain fitness while I cannot train normally?",
+    "why_this_person_asks": "Being sidelined is frustrating."
+  },
+  {
+    "id": 26,
+    "question": "What does gradual return to sport usually involve?",
+    "why_this_person_asks": "I want to avoid going from rehab straight to full intensity."
+  },
+  {
+    "id": 27,
+    "question": "How should I respond if pain comes back during a workout?",
+    "why_this_person_asks": "I need a plan for adjusting instead of pushing through."
+  },
+  {
+    "id": 28,
+    "question": "Can I use resistance bands for shoulder work without making things worse?",
+    "why_this_person_asks": "They seem useful, but I do not know how to choose the tension."
+  },
+  {
+    "id": 29,
+    "question": "Why can an injury feel fine during exercise and worse the next morning?",
+    "why_this_person_asks": "I have noticed delayed symptoms after some sessions."
+  },
+  {
+    "id": 30,
+    "question": "How do I tell if I’m compensating with other muscles during a lift?",
+    "why_this_person_asks": "My movement may have changed while protecting the injury."
+  },
+  {
+    "id": 31,
+    "question": "Should I train the injured side and uninjured side differently?",
+    "why_this_person_asks": "I want to understand how to handle strength differences."
+  },
+  {
+    "id": 32,
+    "question": "What is a reasonable weekly increase in training volume after a layoff?",
+    "why_this_person_asks": "I am looking for a rule that keeps my progress controlled."
+  },
+  {
+    "id": 33,
+    "question": "How can I stay patient when my strength is far below what it used to be?",
+    "why_this_person_asks": "The loss of performance is getting to me."
+  },
+  {
+    "id": 34,
+    "question": "Is it okay to stop a set early even if the planned reps are not done?",
+    "why_this_person_asks": "I want to prioritize good movement and symptom response."
+  },
+  {
+    "id": 35,
+    "question": "What signs mean I should contact my clinician instead of adjusting my workout myself?",
+    "why_this_person_asks": "I want clear boundaries for when professional input matters."
+  }
+]
